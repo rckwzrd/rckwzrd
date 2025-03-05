@@ -5,7 +5,7 @@
 - Check out my blog roll, [Rckwzrd's Reference](https://rckwzrd.github.io/)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/mrhoads7/)
 
-## What is rckwzrd?
+## What is `rckwzrd`?
 ```
 rckwzrd = "rock wizard"
 
